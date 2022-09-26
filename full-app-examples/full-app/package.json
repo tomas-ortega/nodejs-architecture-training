@@ -18,7 +18,7 @@
     "@types/webpack-env": "^1.13.9",
     "istanbul-instrumenter-loader": "3.0.0",
     "nodemon": "^1.19.1",
-    "pm2": "^3.5.1",
+    "pm2": "^5.2.0",
     "ts-loader": "^6.0.2",
     "typescript": "^3.5.1",
     "webpack": "4.33.0",
